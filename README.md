@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, qhobsec here</h1>
 <h3 align="center">A passionate Software Developer & Game programmer</h3>
-<img align="right" alt="qhobsec is deeply engaged in a project" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="qhobsec is deeply engaged in a project" width="440" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
 - 🔭 I’m currently working on **html & CSS projects**

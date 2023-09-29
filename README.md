@@ -3,12 +3,12 @@
 <h3 align="center">A passionate Software Developer & Game programmer</h3>
 <img align="right" alt="qhobsec is deeply engaged in a project" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
+  
+ - 🌱 I’m currently learning **html & CSS.**
 
-- 🔭 I’m currently working on **html & CSS projects**
+- 🔭  working on **html & CSS projects.**
 
-- 🌱 I’m currently learning **html & CSS**
-
-- 💬 Ask me about **C++, html & CSS**
+- 💬 Ask me about **C++, html & CSS.**
 
 - 📫 How to reach me **qhobsec@gmail.com**
 
